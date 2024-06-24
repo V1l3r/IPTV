@@ -1,0 +1,38 @@
+#EXTM3U
+#EXTINF:0,BG: BNT1
+http://87.246.60.6:11024
+#EXTINF:0,BG: BNT3
+http://87.246.60.6:11025
+#EXTINF:0,BG: BTV HD
+http://87.246.60.6:11023
+#EXTINF:0,BG: BTV Comedy HD
+http://87.246.60.6:11018
+#EXTINF:0,BG: BTV Cinema HD
+http://87.246.60.6:11022
+#EXTINF:0,BG: BTV Action HD
+http://87.246.60.6:11027
+#EXTINF:0,BG: EuroNew
+http://87.246.60.6:11541
+#EXTINF:0,BG: Fen TV
+http://87.246.60.6:11043
+#EXTINF:0,BG: Planeta
+http://87.246.60.6:11042
+#EXTINF:0,BG: City TV
+http://87.246.60.6:11029
+#EXTINF:0,BG: Balkanika
+http://87.246.60.6:11026
+#EXTINF:0,BG: MTV 00s
+http://87.246.60.6:11001
+#EXTINF:0,BG: MTV 80s
+http://87.246.60.6:11002
+#EXTINF:0,BG: ФенФолк ТВ
+http://87.246.60.6:11004
+#EXTINF:0,BG: Carton Network
+http://87.246.60.6:11028
+#EXTINF:0,BG: NickJr
+http://87.246.60.6:11007
+
+
+
+
+
